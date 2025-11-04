@@ -9,9 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c4schinmaya&label=Profile%20views&color=0e75b6&style=flat" alt="c4schinmaya" /> </p>
 
-- 🌱 I’m currently learning ***React***
 
-- 📫 How to reach me **chinmaykumar9090@gmail.com**
+- 📫 How to reach me **cs172668@gmail.com**
 
 <h3 align="left" display="flex">Connect with me:</h3>
 <p align="left" display="flex">
