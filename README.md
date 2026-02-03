@@ -51,6 +51,8 @@
 </p>
 
 **Architecture & APIs:**
+- Node.js
+- Express.js
 - RESTful APIs
 - MVC Architecture
 
