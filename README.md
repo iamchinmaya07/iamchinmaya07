@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Chinmaya Kumar Sahoo
+# Hi there 👋, I'm Chinmaya Sahoo
 
 ## A passionate Full Stack Developer from India
 
