@@ -78,21 +78,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chinmaya-kumar-sahoo&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaya-kumar-sahoo&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaya-kumar-sahoo&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
@@ -101,5 +86,5 @@
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/chinmaya-kumar-sahoo">Chinmaya Kumar Sahoo</a>
+  ⭐️ From <a href="https://github.com/chinmaya-kumar-sahoo">Chinmaya Sahoo</a>
 </p>
