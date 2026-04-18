@@ -23,7 +23,7 @@
 
 ```javascript
 const chinmaya = {
-  name: "Chinmaya Kumar Sahoo",
+  name: "Chinmaya Sahoo",
   role: "Full Stack MERN Developer",
   location: "India 🇮🇳",
   email: "cs172668@gmail.com",
