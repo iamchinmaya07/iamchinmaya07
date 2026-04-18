@@ -1,91 +1,126 @@
-# Hi there 👋, I'm Chinmaya Sahoo
+<div align="center">
 
-## A passionate Full Stack Developer from India
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chinmaya%20Sahoo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20MERN%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
 
-- 🔭 I'm currently working on building scalable web applications
-- 🌱 I'm constantly learning and exploring new technologies
-- 💬 Ask me about Full Stack Development, APIs, and Database Design
-- 📫 How to reach me: **cs172668@gmail.com**
-- ⚡ Fun fact: I love solving complex problems and optimizing code
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chinmaya+%F0%9F%91%8B;Full+Stack+MERN+Developer;Building+Scalable+Web+Apps;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=chinmaya-kumar-sahoo&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views" />
+</p>
+
+</div>
 
 ---
 
-## 🌐 Connect with me:
+## 🧑‍💻 About Me
 
+```javascript
+const chinmaya = {
+  name: "Chinmaya Kumar Sahoo",
+  role: "Full Stack MERN Developer",
+  location: "India 🇮🇳",
+  email: "cs172668@gmail.com",
+  stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
+  currentlyLearning: ["Docker", "AWS", "System Design", "Redis"],
+  funFact: "I debug with console.log and I'm not ashamed 😄",
+  openToWork: true,
+};
+```
+
+---
+
+## 🚀 Tech Stack
+
+### 🗣️ Languages
 <p align="left">
-<a href="https://linkedin.com/in/chinmaya-kumar-sahoo-a62029289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmaya-kumar-sahoo" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/chinmaya9090/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinmaya9090" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
----
-
-## 💻 Languages:
-
+### 🎨 Frontend
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
----
-
-## 🎨 Frontend Development:
-
+### ⚙️ Backend
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
----
-
-## ⚙️ Backend Development:
-
+### 🗄️ Database & Caching
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-AA0000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-**Architecture & APIs:**
-- Node.js
-- Express.js
-- RESTful APIs
-- MVC Architecture
-
----
-
-## 🗄️ Database:
-
+### ☁️ DevOps & Cloud *(Learning)*
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
-**Other Database Tools:**
-- Mongoose (ODM for MongoDB)
-- Judge0 (Code execution engine)
-
----
-
-## 🛠️ Developer Tools:
-
+### 🛠️ Tools & Workflow
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="github" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
-
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chinmaya-kumar-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 🔥 What I Build as a MERN Developer
+
+```
+📦 Full Stack Applications
+ ├── 🔐 Authentication Systems (JWT + Bcrypt + OAuth)
+ ├── 🔄 RESTful APIs with Express.js
+ ├── 💬 Real-time features with Socket.io
+ ├── 🗃️ MongoDB schemas with Mongoose ODM
+ ├── ⚡ Redis for caching & session management
+ ├── 🖥️ Responsive React UIs with Tailwind CSS
+ ├── 🗂️ State management with Redux Toolkit
+ └── 🚀 Deployment on Vercel / Render / AWS
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmaya9090/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chinmaya9090/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cs172668@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamchinmaya07)
+
+</div>
+
+---
 
 <p align="center">
   ⭐️ From <a href="https://github.com/chinmaya-kumar-sahoo">Chinmaya Sahoo</a>
